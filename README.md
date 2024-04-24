@@ -75,7 +75,7 @@ If everything's working fine, you should see the app's welcome window.<br/>
 [Ola Mamdouh](https://github.com/olamahdi)<br>
 [Verina Michel](https://github.com/verinak)<br>
 [Marly Magdy](https://github.com/marlymagdy)<br>
-[Maria Anwar](https://github.com/Maria1516)<br>
+[Maria Anwar](https://github.com/MariAnwar)<br>
 [Mirna Tarek](https://github.com/Mirna-tarek)<br>
 [Mariem Nasr](https://github.com/MariemNasr)<br>
 
